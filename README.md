@@ -42,8 +42,8 @@ The project used a simulated e-commerce dataset covering January to December 202
 3. Orders: Contains order dates, payment methods and order statuses.
 4. OrderDetails: Contains individual products purchased, quantities, selling prices and discounts.
 
-# A separate Calendar table was also created to support monthly and time-based analysis.
-# Note: The dataset was created for learning and portfolio demonstration. It does not represent the actual records of a registered business.
+#### A separate Calendar table was also created to support monthly and time-based analysis.
+#### Note: The dataset was created for learning and portfolio demonstration. It does not represent the actual records of a registered business.
 
 ### Tools Used
 - Microsoft Excel: Initial data inspection and preparation.
