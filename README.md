@@ -4,6 +4,9 @@ An e-commerce data analysis project using Excel, Power Query and Power BI to exp
 ### Dashboard Preview
 ### Sales and Product Performance
 ![Sales and Product Performance](Images/ShopSim_Sales_and_Product_Performance.png)
+
+### Customer and Operational Performance
+![Customer and Operational Performance](Images/ShopSim Customer and Operation Performance.png)
 ### Project Overview
 ShopSim E-commerce Analysis is a data analytics project based on a simulated e-commerce business. The project examines the business's performance over a 12-month period, from January to December 2025. The analysis goes beyond sales figures to explore product performance, customer behaviour, profitability, geographical sales distribution and order fulfilment. Microsoft Excel, Power Query and Power BI were used to prepare, analyse and present the data through an interactive dashboard.
 
