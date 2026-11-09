@@ -111,6 +111,9 @@ Some of the major findings from the analysis include:
 - Kano recorded the highest revenue among the identified Nigerian states.
 - Out of 1,000 orders, 70.40% were delivered, while 6.90% were cancelled and 3% were returned.
 
+### Project Limitations
+The analysis was based on simulated data and therefore does not represent the actual performance of a real business. In addition, some records contained missing or invalid information that could not be reliably recovered. Estimated gross profit did not include shipping expenses or other operating costs and should not be interpreted as net profit.
+
 ### Recommendations
 Based on the findings from the analysis, the following actions are recommended to improve the business's sales performance, profitability, customer relationships and order management.
 
@@ -131,9 +134,6 @@ Based on the findings from the analysis, the following actions are recommended t
 
 6. Improve Customer and Transaction Records:
  The business should introduce proper checks when recording customer and order information to reduce missing or invalid entries. For example, customer IDs, order dates and delivery locations should be required fields when recording new transactions. Dropdown lists can also be used for fields such as payment methods, order statuses and states to reduce inconsistent entries. These measures would improve the quality of future reports and make business performance easier to monitor.
-
-### Project Limitations
-The analysis was based on simulated data and therefore does not represent the actual performance of a real business. In addition, some records contained missing or invalid information that could not be reliably recovered. Estimated gross profit did not include shipping expenses or other operating costs and should not be interpreted as net profit.
 
 ### Project Files
 The repository contains the files used in the project, including the dataset, Power BI report, dashboard screenshots and supporting documentation.
