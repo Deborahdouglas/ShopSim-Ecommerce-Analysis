@@ -59,7 +59,7 @@ The four datasets were examined to identify missing information, duplicate recor
 - Identifying missing and invalid values.
 - Checking customer and product references.
 - Preparing the tables for analysis.
-A total of 30 data quality issues were identified. Nineteen were corrected, while 11 were documented because the required information was unavailable. Missing information was not replaced with guessed values.
+A total of 30 data quality issues were identified. Twenty were corrected, while 10 were documented because the required information was unavailable. Missing information was not replaced with guessed values.
 #### The data quality issues and actions taken to remedy them are presented in the data Quality log sheet in the "Data" folder.
 
 ### Data Modelling
